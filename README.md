@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tushar-0103
 - 👀 I’m interested in Data Analysis 
 - 🌱 I’m currently learning Big Data Analysis 
-- 📫 How to reach me jadhavta100@gmail.com
+- 📫 to reach me just mail at -> jadhavta100@gmail.com
 
 <!---
 tushar-0103/tushar-0103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
